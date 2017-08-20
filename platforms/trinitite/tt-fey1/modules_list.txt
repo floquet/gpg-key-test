@@ -1,0 +1,25 @@
+module list
+Wed Aug  2 15:37:03 MDT 2017
+
+Currently Loaded Modulefiles:
+  1) modules/3.2.10.5
+  2) eproxy/2.0.14-4.3
+  3) intel/17.0.1
+  4) craype-network-aries
+  5) craype/2.5.9
+  6) cray-libsci/16.11.1
+  7) udreg/2.3.2-7.54
+  8) ugni/6.0.15-2.2
+  9) pmi/5.0.11
+ 10) dmapp/7.1.1-39.37
+ 11) gni-headers/5.0.11-2.2
+ 12) xpmem/2.1.1_gf9c9084-2.38
+ 13) job/2.1.1_gc1ad964-2.175
+ 14) dvs/2.7_2.1.68_g779d71a-1.0000.779d71a.2.34
+ 15) alps/6.3.4-2.21
+ 16) rca/2.1.8_g6cd9a1b-3.1
+ 17) atp/2.0.5
+ 18) PrgEnv-intel/6.0.3
+ 19) cray-mpich/7.5.2
+ 20) craype-haswell
+ 21) slurm/17.02.6-SSE.1

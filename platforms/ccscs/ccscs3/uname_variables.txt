@@ -1,0 +1,4 @@
+uname variables
+Sun Aug 13 20:05:00 MDT 2017
+
+Linux ccscs3.lanl.gov 3.10.0-514.26.2.el7.x86_64 #1 SMP Fri Jun 30 05:26:04 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux

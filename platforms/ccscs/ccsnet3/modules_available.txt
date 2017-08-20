@@ -1,0 +1,7 @@
+modules available 
+Mon Jul 24 10:38:11 MDT 2017
+
+
+------------------------ /usr/share/Modules/modulefiles ------------------------
+dot          module-info  null         user_contrib
+module-git   modules      use.own

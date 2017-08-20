@@ -1,0 +1,103 @@
+environment variables
+Wed Aug  2 15:21:56 MDT 2017
+
+MANPATH=/usr/share/lmod/lmod/share/man::
+XDG_SESSION_ID=21016
+_ModuleTable003_=dWxlZmlsZXMvc25vdy9saWJyYXJpZXMiLCIvdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9kdWxlZmlsZXMvc25vdy9taXNjIiwiL3Vzci9wcm9qZWN0cy9ocGNzb2Z0L3Rvc3MzL21vZHVsZWZpbGVzL3Nub3cvbXBpIiwiL3Vzci9wcm9qZWN0cy9ocGNzb2Z0L3Rvc3MzL21vZHVsZWZpbGVzL3Nub3cvdG9vbHMiLCIvdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9kdWxlZmlsZXMvc25vdy92aXoiLCIvdXNyL3NoYXJlL21vZHVsZWZpbGVzL0xpbnV4IiwiL3Vzci9zaGFyZS9tb2R1bGVmaWxlcy9Db3JlIiwiL3Vzci9zaGFyZS9sbW9kL2xtb2QvbW9kdWxlZmlsZXMvQ29yZSIsfSxbInN5c3RlbUJhc2VNUEFUSCJdPSIvdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMv
+HOSTNAME=sn-fey1.lanl.gov
+gflags=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra
+my_log=/users/dantopa/Repos/gitlab/ccs2/platforms/snow/sn-fey1//environment_variables.txt
+TERM=xterm-256color
+SHELL=/bin/bash
+fortran_compiler_mpi_cray=ftn
+WISECONFIGDIR=/usr/share/wise2/
+HISTSIZE=1000
+LMOD_DEFAULT_MODULEPATH=/usr/projects/hpcsoft/toss3/modulefiles/snow/compiler:/usr/projects/hpcsoft/toss3/modulefiles/snow/debugger:/usr/projects/hpcsoft/toss3/modulefiles/snow/libraries:/usr/projects/hpcsoft/toss3/modulefiles/snow/misc:/usr/projects/hpcsoft/toss3/modulefiles/snow/mpi:/usr/projects/hpcsoft/toss3/modulefiles/snow/tools:/usr/projects/hpcsoft/toss3/modulefiles/snow/viz:/usr/share/modulefiles/Linux:/usr/share/modulefiles/Core:/usr/share/lmod/lmod/modulefiles/Core
+MODULEPATH_ROOT=/usr/share/modulefiles
+SSH_CLIENT=141.111.175.60 56502 22
+fortran_compiler_caf=caf
+LMOD_PKG=/usr/share/lmod/lmod
+QTDIR=/usr/lib64/qt-3.3
+gitlab=/users/dantopa/Repos/gitlab/
+LMOD_VERSION=6.5
+QTINC=/usr/lib64/qt-3.3/include
+os=linux
+SSH_TTY=/dev/pts/1
+nagflags=-g -C=all -colour -compatible -f2008 -free -gc -gline -info -nan -O2 -pg -time -v -V
+gflags48=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all
+myssh=ssh -l dantopa -X
+QT_GRAPHICSSYSTEM_CHECKED=1
+http_proxy=http://proxyout.lanl.gov:8080
+USER=dantopa
+LMOD_sys=Linux
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+moniker=dantopa
+spack_mirror_scratch=/scratch/vendors/spack.mirror
+compare=sn
+_ModuleTable004_=bW9kdWxlZmlsZXMvc25vdy9jb21waWxlcjovdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9kdWxlZmlsZXMvc25vdy9kZWJ1Z2dlcjovdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9kdWxlZmlsZXMvc25vdy9saWJyYXJpZXM6L3Vzci9wcm9qZWN0cy9ocGNzb2Z0L3Rvc3MzL21vZHVsZWZpbGVzL3Nub3cvbWlzYzovdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9kdWxlZmlsZXMvc25vdy9tcGk6L3Vzci9wcm9qZWN0cy9ocGNzb2Z0L3Rvc3MzL21vZHVsZWZpbGVzL3Nub3cvdG9vbHM6L3Vzci9wcm9qZWN0cy9ocGNzb2Z0L3Rvc3MzL21vZHVsZWZpbGVzL3Nub3cvdml6Oi91c3Ivc2hhcmUvbW9kdWxlZmlsZXMvTGludXg6L3Vzci9zaGFyZS9tb2R1bGVmaWxl
+LMOD_PREPEND_BLOCK=normal
+ALL_PROXY=http://proxyout.lanl.gov:8080
+all_proxy=http://proxyout.lanl.gov:8080
+host_name=snow
+_ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJhY3RpdmVTaXplIl09MCxiYXNlTXBhdGhBPXsiL3Vzci9wcm9qZWN0cy9ocGNzb2Z0L3Rvc3MzL21vZHVsZWZpbGVzL3Nub3cvY29tcGlsZXIiLCIvdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9kdWxlZmlsZXMvc25vdy9kZWJ1Z2dlciIsIi91c3IvcHJvamVjdHMvaHBjc29mdC90b3NzMy9tb2R1bGVmaWxlcy9zbm93L2xpYnJhcmllcyIsIi91c3IvcHJvamVjdHMvaHBjc29mdC90b3NzMy9tb2R1bGVmaWxlcy9zbm93L21pc2MiLCIvdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9kdWxlZmlsZXMvc25vdy9tcGkiLCIvdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9kdWxlZmlsZXMvc25vdy90b29scyIsIi91c3IvcHJvamVjdHMv
+gflags45=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens 
+MAIL=/var/spool/mail/dantopa
+PATH=bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+RSYNC_PROXY=http://proxyout.lanl.gov:8080
+rsync_proxy=http://proxyout.lanl.gov:8080
+scratch=/net/scratch1/dantopa/
+gflags47=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination
+LMOD_SETTARG_CMD=:
+PWD=/users/dantopa
+JAVA_HOME=/usr/bin/javac
+MODULEPATH=/usr/projects/hpcsoft/toss3/modulefiles/snow/compiler:/usr/projects/hpcsoft/toss3/modulefiles/snow/debugger:/usr/projects/hpcsoft/toss3/modulefiles/snow/libraries:/usr/projects/hpcsoft/toss3/modulefiles/snow/misc:/usr/projects/hpcsoft/toss3/modulefiles/snow/mpi:/usr/projects/hpcsoft/toss3/modulefiles/snow/tools:/usr/projects/hpcsoft/toss3/modulefiles/snow/viz:/usr/share/modulefiles/Linux:/usr/share/modulefiles/Core:/usr/share/lmod/lmod/modulefiles/Core
+_ModuleTable_Sz_=5
+KDEDIRS=/usr
+fortran_compiler_gnu=gfortran
+ego=/users/dantopa/Repos/gitlab/ccs2/platforms/snow
+_ModuleTable005_=cy9Db3JlOi91c3Ivc2hhcmUvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmUiLFsidmVyc2lvbiJdPTIsfQ==
+LMOD_CMD=/usr/share/lmod/lmod/libexec/lmod
+HTTPS_PROXY=http://proxyout.lanl.gov:8080
+https_proxy=http://proxyout.lanl.gov:8080
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+HISTCONTROL=ignoredups
+KRB5CCNAME=FILE:/tmp/krb5cc_15003_2Sbi96
+SHLVL=1
+HOME=/users/dantopa
+id=/users/dantopa/Repos/gitlab/ccs2/platforms/snow/sn-fey1/
+_ModuleTable002_=aHBjc29mdC90b3NzMy9tb2R1bGVmaWxlcy9zbm93L3ZpeiIsIi91c3Ivc2hhcmUvbW9kdWxlZmlsZXMvTGludXgiLCIvdXNyL3NoYXJlL21vZHVsZWZpbGVzL0NvcmUiLCIvdXNyL3NoYXJlL2xtb2QvbG1vZC9tb2R1bGVmaWxlcy9Db3JlIix9LFsiY19yZWJ1aWxkVGltZSJdPTgyNC45Njk2MTU5MzYyOCxbImNfc2hvcnRUaW1lIl09Ni44NzQ3NDY3OTk0NjksZmFtaWx5PXt9LGluYWN0aXZlPXt9LG1UPXt9LG1wYXRoQT17Ii91c3IvcHJvamVjdHMvaHBjc29mdC90b3NzMy9tb2R1bGVmaWxlcy9zbm93L2NvbXBpbGVyIiwiL3Vzci9wcm9qZWN0cy9ocGNzb2Z0L3Rvc3MzL21vZHVsZWZpbGVzL3Nub3cvZGVidWdnZXIiLCIvdXNyL3Byb2plY3RzL2hwY3NvZnQvdG9zczMvbW9k
+cflags=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra -fcoarray=lib
+HTTP_PROXY=http://proxyout.lanl.gov:8080
+spack_mirror_draco=/usr/projects/draco/vendors/spack.mirror
+me=dantopa@lanl.gov
+BASH_ENV=/usr/share/lmod/lmod/init/bash
+LMOD_arch=x86_64
+LOGNAME=dantopa
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+core=/users/dantopa/Repos/gitlab/ccs2/core_scripts/
+ccs2=/users/dantopa/Repos/gitlab/ccs2/
+SSH_CONNECTION=141.111.175.60 56502 128.165.227.181 22
+crayflags=-g -fbacktrace
+MODULESHOME=/usr/share/lmod/lmod
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+gflags4=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5
+gflags5=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto
+LMOD_FULL_SETTARG_SUPPORT=no
+gflags6=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra
+XDG_RUNTIME_DIR=/run/user/15003
+DISPLAY=128.165.227.181:14.0
+gflags7=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra  -finit-derived
+vol=/users/dantopa/
+QT_PLUGIN_PATH=/usr/lib64/kde4/plugins:/usr/lib/kde4/plugins
+short_name=sn-fey1
+LMOD_DIR=/usr/share/lmod/lmod/libexec
+fortran_compiler_mpi_gnu=mpif90
+LMOD_COLORIZE=yes
+bash_file=.bashrc
+BASH_FUNC_module()=() {  eval $($LMOD_CMD bash "$@");
+ [ $? = 0 ] && eval $(${LMOD_SETTARG_CMD:-:} -s sh)
+}
+BASH_FUNC_ml()=() {  eval $($LMOD_DIR/ml_cmd "$@")
+}
+_=/usr/bin/env

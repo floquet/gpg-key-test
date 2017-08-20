@@ -1,0 +1,46 @@
+cat /proc/mem info for moonlight
+Thu Jul  6 15:39:22 MDT 2017
+
+MemTotal:       32957516 kB
+MemFree:        11563632 kB
+Buffers:               0 kB
+Cached:         17096912 kB
+SwapCached:            0 kB
+Active:          6782624 kB
+Inactive:        9912332 kB
+Active(anon):      20428 kB
+Inactive(anon):      744 kB
+Active(file):    6762196 kB
+Inactive(file):  9911588 kB
+Unevictable:      419804 kB
+Mlocked:               0 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 4 kB
+Writeback:            24 kB
+AnonPages:         17856 kB
+Mapped:             8588 kB
+Shmem:              3320 kB
+Slab:            3408308 kB
+SReclaimable:     183956 kB
+SUnreclaim:      3224352 kB
+KernelStack:       10928 kB
+PageTables:         1828 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    32298364 kB
+Committed_AS:     133200 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      496916 kB
+VmallocChunk:   34341996372 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      202752 kB
+DirectMap2M:     5007360 kB
+DirectMap1G:    28311552 kB

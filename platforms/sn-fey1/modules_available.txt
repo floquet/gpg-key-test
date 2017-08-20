@@ -1,0 +1,56 @@
+modules available 
+Fri Aug 11 16:50:30 MDT 2017
+
+
+------------ /usr/projects/hpcsoft/toss3/modulefiles/snow/compiler -------------
+   gcc/5.3.0    intel/15.0.5    intel/16.0.3    intel/17.0.1 (D)    pgi/15.10
+
+------------ /usr/projects/hpcsoft/toss3/modulefiles/snow/debugger -------------
+   allinea-DDT/6.0        totalview/2016.05.01        valgrind/3.12.0
+   allinea-DDT/6.1        totalview/2016.07.22
+   allinea-DDT/7.0 (D)    totalview/2017.0.12  (D)
+
+------------ /usr/projects/hpcsoft/toss3/modulefiles/snow/libraries ------------
+   hdf5-parallel/1.8.16        mkl/11.4.1              (D)
+   hdf5-serial/1.8.16          netcdf-h5parallel/4.4.0
+   intel-daal/2016.1.3         netcdf-serial/4.4.0
+   intel-daal/2017.1.1  (D)    papi/5.4.3
+   mkl/11.2.4                  quo/1.2.7
+   mkl/11.3.3                  quo/1.2.9               (D)
+
+-------------- /usr/projects/hpcsoft/toss3/modulefiles/snow/misc ---------------
+   deprecated          null       support    user_contrib
+   friendly-testing    sandbox    use.own
+
+--------------- /usr/projects/hpcsoft/toss3/modulefiles/snow/mpi ---------------
+   intel-mpi/5.0.3    intel-mpi/2017.1 (D)    openmpi/1.10.5
+   intel-mpi/5.1.3    mvapich2/2.2
+
+-------------- /usr/projects/hpcsoft/toss3/modulefiles/snow/tools --------------
+   allinea-MAP/6.0         intel-performance-tools/2016.3.067
+   allinea-MAP/6.1         intel-performance-tools/2017.1.024 (D)
+   allinea-MAP/7.0  (D)    java/1.8.0_45
+   cmake/3.5.2             mercurial/2.8
+   cmake/3.6.2      (D)    numactl/2.0.9
+   fstools/1.0             python/2.7-anaconda-4.1.1
+   git/2.3.3               python/3.5-anaconda-4.1.1          (D)
+   git/2.11.0       (D)    subversion/1.9.4
+   gnuplot/5.0.0           subversion/1.9.5                   (D)
+   hpctoolkit/5.5.1 (D)    tau/2.25.1.1
+   hsi/6.0.0.p3            understand/3.1.732
+   idl/8.4                 understand/4.0.864                 (D)
+   idl/8.5.1        (D)    vampir/9.1.0
+
+--------------- /usr/projects/hpcsoft/toss3/modulefiles/snow/viz ---------------
+   paraview/5.2.0-osmesa
+
+-------------------- /usr/share/lmod/lmod/modulefiles/Core ---------------------
+   lmod/6.5    settarg/6.5
+
+  Where:
+   D:  Default Module
+
+Use "module spider" to find all possible modules.
+Use "module keyword key1 key2 ..." to search for all possible modules matching
+any of the "keys".
+

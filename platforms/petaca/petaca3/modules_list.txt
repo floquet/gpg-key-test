@@ -1,0 +1,5 @@
+module list
+Mon Aug  7 08:10:35 MDT 2017
+
+Currently Loaded Modulefiles:
+  1) python-sphinx/python2-sphinx

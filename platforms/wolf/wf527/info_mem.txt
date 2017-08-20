@@ -1,0 +1,46 @@
+cat /proc/mem info for wolf
+Thu Jul  6 15:39:36 MDT 2017
+
+MemTotal:       66001032 kB
+MemFree:        29130156 kB
+Buffers:               0 kB
+Cached:         28626700 kB
+SwapCached:            0 kB
+Active:          8346156 kB
+Inactive:       19982372 kB
+Active(anon):      13688 kB
+Inactive(anon):     3404 kB
+Active(file):    8332468 kB
+Inactive(file): 19978968 kB
+Unevictable:      311644 kB
+Mlocked:               0 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 4 kB
+Writeback:             0 kB
+AnonPages:         13972 kB
+Mapped:             7688 kB
+Shmem:              3408 kB
+Slab:            6758448 kB
+SReclaimable:     370920 kB
+SUnreclaim:      6387528 kB
+KernelStack:        9392 kB
+PageTables:         1928 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    64681008 kB
+Committed_AS:     119240 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:     1259864 kB
+VmallocChunk:   34324516216 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:        4096 kB
+DirectMap2M:     2060288 kB
+DirectMap1G:    65011712 kB

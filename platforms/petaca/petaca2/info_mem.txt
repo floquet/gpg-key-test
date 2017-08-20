@@ -1,0 +1,51 @@
+cat /proc/mem info for petaca 2
+Wed Aug  9 09:09:43 MDT 2017
+
+MemTotal:       65878708 kB
+MemFree:        43281076 kB
+MemAvailable:   62341732 kB
+Buffers:          933584 kB
+Cached:         17253336 kB
+SwapCached:            0 kB
+Active:          8525244 kB
+Inactive:       12085236 kB
+Active(anon):    2425728 kB
+Inactive(anon):     2292 kB
+Active(file):    6099516 kB
+Inactive(file): 12082944 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:      32964604 kB
+SwapFree:       32964604 kB
+Dirty:                24 kB
+Writeback:             0 kB
+AnonPages:       2423592 kB
+Mapped:           180468 kB
+Shmem:              4476 kB
+Slab:            1724500 kB
+SReclaimable:    1546404 kB
+SUnreclaim:       178096 kB
+KernelStack:       15536 kB
+PageTables:        22984 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    65903956 kB
+Committed_AS:    6786404 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      269732 kB
+DirectMap2M:    15364096 kB
+DirectMap1G:    51380224 kB

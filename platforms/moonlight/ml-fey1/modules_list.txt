@@ -1,0 +1,5 @@
+module list
+Tue Aug  1 16:45:50 MDT 2017
+
+Currently Loaded Modulefiles:
+  1) pgi/10.9

@@ -1,0 +1,16 @@
+Notes
+
+Trinitite
+  Yellow:    tt-fey.lanl.gov  (alias trinititey='ssh -l dantopa tt-fey.lanl.gov')
+
+MOONLIGHT
+  Turquoise: ml-fe.lanl.gov
+  Yellow:    ml-fey.lanl.gov
+
+PINTO
+  Turquoise: pi-fe.lanl.gov
+  Yellow:    pi-fey.lanl.gov
+
+WOLF
+  Turquoise: wf-fe.lanl.gov
+  Yellow:    wf-fey.lanl.gov

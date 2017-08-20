@@ -1,0 +1,46 @@
+cat /proc/mem info for ccscs 8
+Sun Aug 13 20:06:15 MDT 2017
+
+MemTotal:       65964444 kB
+MemFree:        23426144 kB
+MemAvailable:   60457132 kB
+Buffers:            2552 kB
+Cached:         35517264 kB
+SwapCached:          332 kB
+Active:         22402780 kB
+Inactive:       15084876 kB
+Active(anon):    2305552 kB
+Inactive(anon):  1321964 kB
+Active(file):   20097228 kB
+Inactive(file): 13762912 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       4194300 kB
+SwapFree:        4192624 kB
+Dirty:                 8 kB
+Writeback:             0 kB
+AnonPages:       1966648 kB
+Mapped:            91132 kB
+Shmem:           1659676 kB
+Slab:            3902460 kB
+SReclaimable:    3667932 kB
+SUnreclaim:       234528 kB
+KernelStack:       10432 kB
+PageTables:        17344 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    37176520 kB
+Committed_AS:    7849024 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      388252 kB
+VmallocChunk:   34325399548 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:   1718272 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      223652 kB
+DirectMap2M:    66875392 kB

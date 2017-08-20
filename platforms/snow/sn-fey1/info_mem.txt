@@ -1,0 +1,47 @@
+cat /proc/mem info for snow
+Wed Aug  2 15:21:56 MDT 2017
+
+MemTotal:       131914952 kB
+MemFree:        15985036 kB
+MemAvailable:   103058016 kB
+Buffers:               0 kB
+Cached:         86740060 kB
+SwapCached:            0 kB
+Active:         40293204 kB
+Inactive:       51040816 kB
+Active(anon):    5459236 kB
+Inactive(anon):  1293088 kB
+Active(file):   34833968 kB
+Inactive(file): 49747728 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:               536 kB
+Writeback:           224 kB
+AnonPages:       4604616 kB
+Mapped:           302676 kB
+Shmem:           2158120 kB
+Slab:           21490844 kB
+SReclaimable:    3805376 kB
+SUnreclaim:     17685468 kB
+KernelStack:       33344 kB
+PageTables:       150288 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    129276652 kB
+Committed_AS:   10780040 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:     1400576 kB
+VmallocChunk:   34291519908 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:   2308096 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      274252 kB
+DirectMap2M:    25841664 kB
+DirectMap1G:    110100480 kB

@@ -1,0 +1,350 @@
+modules available 
+Wed Aug  2 15:37:02 MDT 2017
+
+
+-------------------- /opt/cray/pe/craype/2.5.9/modulefiles ---------------------
+craype-accel-host     craype-hugepages16M   craype-hugepages8M
+craype-accel-nvidia20 craype-hugepages256M  craype-intel-knc
+craype-accel-nvidia35 craype-hugepages2M    craype-ivybridge
+craype-accel-nvidia60 craype-hugepages32M   craype-mic-knl
+craype-broadwell      craype-hugepages4M    craype-network-aries
+craype-haswell        craype-hugepages512M  craype-network-none
+craype-hugepages128M  craype-hugepages64M   craype-sandybridge
+
+--------------------------- /opt/cray/pe/modulefiles ---------------------------
+PrgEnv-cray/6.0.1
+PrgEnv-cray/6.0.2
+PrgEnv-cray/6.0.3(default)
+PrgEnv-cray/6.0.4
+PrgEnv-gnu/6.0.1
+PrgEnv-gnu/6.0.2
+PrgEnv-gnu/6.0.3(default)
+PrgEnv-gnu/6.0.4
+PrgEnv-intel/6.0.1
+PrgEnv-intel/6.0.2
+PrgEnv-intel/6.0.3(default)
+PrgEnv-intel/6.0.4
+atp/1.8.3
+atp/2.0.1
+atp/2.0.2
+atp/2.0.4
+atp/2.0.4_debug
+atp/2.0.5(default)
+atp/2.0.5_debug
+atp/2.1.0
+atp/2.1.0_debug
+cce/8.4.6
+cce/8.5.0
+cce/8.5.2
+cce/8.5.3
+cce/8.5.5
+cce/8.5.6
+cce/8.5.7(default)
+cce/8.5.8
+cdt/16.04
+cdt/16.06
+cdt/16.08
+cdt/16.09
+cdt/16.11
+cdt/16.12
+cdt/17.02
+cdt/17.04
+cdt/17.05
+cray-ccdb/1.0.7
+cray-ccdb/2.0.0
+cray-ccdb/2.0.1
+cray-ccdb/2.0.3(default)
+cray-ccdb/3.0.1
+cray-cti/1.0.1
+cray-cti/1.0.2
+cray-cti/1.0.4(default)
+cray-cti/1.0.5
+cray-fftw/3.3.6.1(default)
+cray-ga/5.3.0.5
+cray-ga/5.3.0.6
+cray-ga/5.3.0.7(default)
+cray-hdf5/1.10.0
+cray-hdf5/1.10.0.1(default)
+cray-hdf5/1.8.14
+cray-hdf5/1.8.16
+cray-hdf5-parallel/1.10.0
+cray-hdf5-parallel/1.10.0.1(default)
+cray-hdf5-parallel/1.8.14
+cray-hdf5-parallel/1.8.16
+cray-lgdb/2.4.5
+cray-lgdb/3.0.0
+cray-lgdb/3.0.2
+cray-lgdb/3.0.3
+cray-lgdb/3.0.4
+cray-lgdb/3.0.5(default)
+cray-lgdb/3.0.6
+cray-libsci/13.3.0
+cray-libsci/16.03.1
+cray-libsci/16.06.1
+cray-libsci/16.07.1
+cray-libsci/16.09.1
+cray-libsci/16.11.1(default)
+cray-memkind
+cray-mpich/7.3.1
+cray-mpich/7.3.3
+cray-mpich/7.4.0
+cray-mpich/7.4.2
+cray-mpich/7.4.3
+cray-mpich/7.5.0
+cray-mpich/7.5.1
+cray-mpich/7.5.2(default)
+cray-mpich/7.5.4
+cray-mpich/7.5.5
+cray-mpich-abi/7.3.1
+cray-mpich-abi/7.3.3
+cray-mpich-abi/7.4.0
+cray-mpich-abi/7.4.2
+cray-mpich-abi/7.4.3
+cray-mpich-abi/7.5.0
+cray-mpich-abi/7.5.1
+cray-mpich-abi/7.5.2(default)
+cray-mpich-abi/7.5.4
+cray-mpich-abi/7.5.5
+cray-netcdf/4.3.3.1
+cray-netcdf/4.4.0
+cray-netcdf/4.4.1
+cray-netcdf/4.4.1.1(default)
+cray-netcdf-hdf5parallel/4.3.3.1
+cray-netcdf-hdf5parallel/4.4.0
+cray-netcdf-hdf5parallel/4.4.1
+cray-netcdf-hdf5parallel/4.4.1.1(default)
+cray-parallel-netcdf/1.6.1
+cray-parallel-netcdf/1.7.0(default)
+cray-parallel-netcdf/1.8.0
+cray-petsc/3.6.1.0
+cray-petsc/3.6.3.0
+cray-petsc/3.7.0.0
+cray-petsc/3.7.2.0
+cray-petsc/3.7.2.1
+cray-petsc/3.7.4.0(default)
+cray-petsc/3.7.5.0
+cray-petsc-64/3.6.1.0
+cray-petsc-64/3.6.3.0
+cray-petsc-64/3.7.0.0
+cray-petsc-64/3.7.2.0
+cray-petsc-64/3.7.2.1
+cray-petsc-64/3.7.4.0(default)
+cray-petsc-64/3.7.5.0
+cray-petsc-complex/3.6.1.0
+cray-petsc-complex/3.6.3.0
+cray-petsc-complex/3.7.0.0
+cray-petsc-complex/3.7.2.0
+cray-petsc-complex/3.7.2.1
+cray-petsc-complex/3.7.4.0(default)
+cray-petsc-complex/3.7.5.0
+cray-petsc-complex-64/3.6.1.0
+cray-petsc-complex-64/3.6.3.0
+cray-petsc-complex-64/3.7.0.0
+cray-petsc-complex-64/3.7.2.0
+cray-petsc-complex-64/3.7.2.1
+cray-petsc-complex-64/3.7.4.0(default)
+cray-petsc-complex-64/3.7.5.0
+cray-shmem/7.3.1
+cray-shmem/7.3.3
+cray-shmem/7.4.0
+cray-shmem/7.4.2
+cray-shmem/7.4.3
+cray-shmem/7.5.0
+cray-shmem/7.5.1
+cray-shmem/7.5.2(default)
+cray-shmem/7.5.4
+cray-shmem/7.5.5
+cray-tpsl/1.5.2
+cray-tpsl/16.03.1
+cray-tpsl/16.06.1
+cray-tpsl/16.07.1
+cray-tpsl/16.12.1(default)
+cray-tpsl/17.04.1
+cray-tpsl-64/1.5.2
+cray-tpsl-64/16.03.1
+cray-tpsl-64/16.06.1
+cray-tpsl-64/16.07.1
+cray-tpsl-64/16.12.1(default)
+cray-tpsl-64/17.04.1
+cray-trilinos/11.12.1.5
+cray-trilinos/12.10.1.0
+cray-trilinos/12.2.1.0
+cray-trilinos/12.6.3.0
+cray-trilinos/12.6.3.1
+cray-trilinos/12.6.3.2
+cray-trilinos/12.6.3.3
+cray-trilinos/12.8.1.0(default)
+craype/2.5.10
+craype/2.5.2
+craype/2.5.4
+craype/2.5.5
+craype/2.5.6
+craype/2.5.7
+craype/2.5.8
+craype/2.5.9(default)
+craypkg-gen/1.3.3
+craypkg-gen/1.3.4(default)
+craypkg-gen/1.3.5
+fftw/2.1.5.9
+fftw/3.3.4.10
+fftw/3.3.4.11(default)
+fftw/3.3.4.6
+fftw/3.3.4.7
+fftw/3.3.4.8
+fftw/3.3.4.9
+iobuf/2.0.6
+iobuf/2.0.7
+iobuf/2.0.8(default)
+modules/3.2.10.3
+modules/3.2.10.4
+modules/3.2.10.5(default)
+modules/3.2.10.6
+papi/5.4.1.3
+papi/5.4.3.1
+papi/5.4.3.2
+papi/5.4.3.3
+papi/5.5.0.1
+papi/5.5.0.2(default)
+papi/5.5.1.1
+perftools/6.3.1
+perftools/6.3.2
+perftools/6.4.0
+perftools/6.4.1
+perftools/6.4.2
+perftools/6.4.3
+perftools/6.4.4
+perftools/6.4.5(default)
+perftools/6.4.6
+perftools-base/6.3.1
+perftools-base/6.3.2
+perftools-base/6.4.0
+perftools-base/6.4.1
+perftools-base/6.4.2
+perftools-base/6.4.3
+perftools-base/6.4.4
+perftools-base/6.4.5(default)
+perftools-base/6.4.6
+perftools-lite/6.3.1
+perftools-lite/6.3.2
+perftools-lite/6.4.0
+perftools-lite/6.4.1
+perftools-lite/6.4.2
+perftools-lite/6.4.3
+perftools-lite/6.4.4
+perftools-lite/6.4.5(default)
+perftools-lite/6.4.6
+pmi/5.0.11(default)
+pmi/5.0.12
+pmi-lib/5.0.11(default)
+pmi-lib/5.0.12
+stat/2.2.0.1
+stat/2.2.0.2
+stat/2.2.0.3(default)
+stat/2.2.0.4
+
+---------------------------- /opt/cray/modulefiles -----------------------------
+capmc/8.0.3000+0+g669f807
+lustre-default/2.7.1.137_3.12.61_52.77.1.13154.1.PTF.1043232-1.0000.800774a.11.2(default)
+
+------------------------------- /opt/modulefiles -------------------------------
+cray-R/3.3.3(default)        gcc/6.2.0
+cray-python/17.05.1(default) gcc/6.3.0(default)
+eproxy/2.0.14-4.3(default)   java/jdk1.8.0_51(default)
+gcc/4.9.3                    modules/3.2.6.7
+gcc/5.2.0                    pmix/1.2
+gcc/5.3.0                    slurm/17.02.6-SSE.1(default)
+gcc/6.1.0
+
+--------- /usr/projects/hpcsoft/cle6.0/modulefiles/trinitite/compiler ----------
+intel/15.0.5          intel/16.0.3
+intel/15.0.7          intel/17.0.1(default)
+
+--------- /usr/projects/hpcsoft/cle6.0/modulefiles/trinitite/debugger ----------
+allinea-DDT/6.0              totalview/2016.07.22
+allinea-DDT/6.1              totalview/2017.0.12(default)
+allinea-DDT/7.0(default)     valgrind/3.11.0
+totalview/2016.05.01         valgrind/3.12.0(default)
+
+--------- /usr/projects/hpcsoft/cle6.0/modulefiles/trinitite/libraries ---------
+intel-daal/2017.1.1(default) quo/1.2.7
+quo/1.2.3                    quo/1.2.9(default)
+quo/1.2.4
+
+----------- /usr/projects/hpcsoft/cle6.0/modulefiles/trinitite/misc ------------
+deprecated        module-git        null              use.own
+dot               module-info       sandbox           user_contrib
+friendly-testing  modules/(default) support
+
+----------- /usr/projects/hpcsoft/cle6.0/modulefiles/trinitite/tools -----------
+allinea-MAP/6.0
+allinea-MAP/6.1
+allinea-MAP/7.0(default)
+cmake/3.4.3
+cmake/3.5.2
+cmake/3.6.2(default)
+git/2.11.0(default)
+git/2.3.3
+hpctoolkit/5.5.1
+hsi/6.0.0.p3(default)
+idl/8.4
+idl/8.5.1(default)
+intel-performance-tools/2016.3.067
+intel-performance-tools/2017.1.024(default)
+mercurial/2.8
+nedit/5.5
+numactl/2.0.9(default)
+python/2.7-anaconda-2.1.0
+python/2.7-anaconda-4.1.1
+python/3.4-anaconda-2.1.0
+python/3.5-anaconda-4.1.1(default)
+subversion/1.9.4
+subversion/1.9.5(default)
+
+------------ /usr/projects/hpcsoft/cle6.0/modulefiles/trinitite/viz ------------
+paraview/4.3.1-openswr-shared  paraview/5.2.0-osmesa(default)
+paraview/5.0.0-openswr-shared
+
+-------------------------- /opt/cray/ari/modulefiles ---------------------------
+alps/6.3.4-2.21(default)
+alpscomm/1.2.1-6.77(default)
+ccm/2.4.1-357.125(default)
+codbc/2.3.92-2.3(default)
+comm_msg/1.1.0-6.10(default)
+configparse/2.3.30-2.40(default)
+daemontools/1.2.0-2.5(default)
+datawarp/2.1.8_g2de47e3-2.27(default)
+datawarp_cache/2.1.2_g108e0aa-2.370(default)
+dmapp/7.1.1-39.37(default)
+dvs/2.7_2.1.68_g779d71a-1.0000.779d71a.2.34(default)
+dw_wlm/2.1.51_g222a65f-2.6(default)
+dws/2.1.80_g1f50bc3-2.19(default)
+gni-headers/5.0.11-2.2(default)
+hosts/2.3.97-2.46(default)
+imps/3.3.2686-2.1(default)
+job/2.1.1_gc1ad964-2.175(default)
+krca/2.1.3_g923f58b-2.244(default)
+linux-nvme-ctl/0.0_2.1.0_g01e3bc1-2.44(default)
+llm/21.2.432-2.6(default)
+logcb/1.2.1-2.1(default)
+nodehealth/5.3.0-13.152(default)
+nodestat/2.2.70-2.98(default)
+pmi/5.0.10-1.0000.11069.183.8.ari
+rca/2.1.8_g6cd9a1b-3.1(default)
+rdma-credentials/1.1.31-2.137(default)
+sdb/3.2.679-2.9(default)
+shifter/16.08.3-2.9
+socketauth/1.2.0-2.6(default)
+swrap/1.2.0-2.5(default)
+sysadm/2.3.116-2.7(default)
+system-config/3.3.2280-3.1(default)
+sysutils/2.3.59-5.1(default)
+udreg/2.3.2-7.54(default)
+udwcfs/2.1.2_g19ab1fc-2.329(default)
+udwfs/2.1.7_ga22cb53-2.27(default)
+ugni/6.0.15-2.2(default)
+wlm_detect/1.2.1-3.10(default)
+wlm_trans/1.2.0-4.171(default)
+xpmem/2.1.1_gf9c9084-2.38(default)
+
+------------------------- /opt/cray/pe/ari/modulefiles -------------------------
+pmi/5.0.10-1.0000.11050.0.0.ari

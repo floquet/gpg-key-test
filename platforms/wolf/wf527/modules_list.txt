@@ -1,0 +1,4 @@
+module list
+Thu Jul  6 15:39:36 MDT 2017
+
+No Modulefiles Currently Loaded.

@@ -1,0 +1,46 @@
+cat /proc/mem info for pinto
+Thu Jul  6 15:44:15 MDT 2017
+
+MemTotal:       32957516 kB
+MemFree:        18776704 kB
+Buffers:               0 kB
+Cached:         10411124 kB
+SwapCached:            0 kB
+Active:          5794588 kB
+Inactive:        4247252 kB
+Active(anon):      24924 kB
+Inactive(anon):      708 kB
+Active(file):    5769664 kB
+Inactive(file):  4246544 kB
+Unevictable:      391484 kB
+Mlocked:               0 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:         22388 kB
+Mapped:             8440 kB
+Shmem:              3432 kB
+Slab:            2908420 kB
+SReclaimable:     203632 kB
+SUnreclaim:      2704788 kB
+KernelStack:       10784 kB
+PageTables:         1676 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    32298364 kB
+Committed_AS:      96076 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      756432 kB
+VmallocChunk:   34341691088 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:      6144 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:        4096 kB
+DirectMap2M:     2060288 kB
+DirectMap1G:    31457280 kB

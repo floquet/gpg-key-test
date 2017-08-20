@@ -1,0 +1,170 @@
+environment variables
+Tue Aug  1 16:45:50 MDT 2017
+
+_MODULES_FC=pgi/10.9
+MANPATH=/usr/projects/hpcsoft/toss2/common/pgi/10.9/linux86-64/10.9/man:
+LCOMPILER=pgi
+SPACK_ROOT=/users/dantopa/Repos/gitlab/ccs2
+HOSTNAME=ml-fey1.lanl.gov
+gflags=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra
+my_log=/users/dantopa/Repos/gitlab/ccs2/platforms/moonlight/ml-fey1//environment_variables.txt
+TERM=xterm-256color
+SHELL=/bin/bash
+fortran_compiler_mpi_cray=ftn
+WISECONFIGDIR=/usr/share/wise2/
+HISTSIZE=1000
+SSH_CLIENT=128.165.15.5 57764 22
+fortran_compiler_caf=caf
+QTDIR=/usr/lib64/qt-3.3
+OLDPWD=/net/scratch1/dantopa/spack
+gitlab=/users/dantopa/Repos/gitlab/
+QTINC=/usr/lib64/qt-3.3/include
+os=linux
+SSH_TTY=/dev/pts/17
+nagflags=-g -C=all -colour -compatible -f2008 -free -gc -gline -info -nan -O2 -pg -time -v -V
+gflags48=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all
+myssh=ssh -l dantopa -X
+http_proxy=http://proxyout.lanl.gov:8080
+USER=dantopa
+LD_LIBRARY_PATH=/usr/projects/hpcsoft/toss2/common/gcc/5.3.0/lib64:/usr/projects/hpcsoft/toss2/common/pgi/10.9/linux86-64/10.9/lib:/usr/projects/hpcsoft/toss2/common/pgi/10.9/linux86-64/10.9/libso
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lz=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.bz=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.rar=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+moniker=dantopa
+spack_mirror_scratch=/scratch/vendors/spack.mirror
+compare=ml
+fortran=fortran/
+PGI=/usr/projects/hpcsoft/toss2/common/pgi/10.9/linux86-64/10.9
+ALL_PROXY=http://proxyout.lanl.gov:8080
+all_proxy=http://proxyout.lanl.gov:8080
+host_name=moonlight
+gflags45=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens 
+MAIL=/var/spool/mail/dantopa
+PATH=/users/dantopa/Repos/gitlab/ccs2bin:/users/dantopa/Repos/gitlab/ccs2bin:/net/scratch1/dantopa/spack/bin:/usr/projects/hpcsoft/toss2/common/pgi/10.9/linux86-64/10.9/bin:/net/scratch1/dantopa/Applications/spackbin:bin:bin:bin:bin:bin:bin:bin:bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin
+RSYNC_PROXY=http://proxyout.lanl.gov:8080
+rsync_proxy=http://proxyout.lanl.gov:8080
+scratch=/net/scratch1/dantopa/
+gflags47=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination
+F90=pgfortran
+PWD=/users/dantopa/Repos/gitlab/ccs2
+JAVA_HOME=/usr/bin/javac
+_LMFILES_=/usr/projects/hpcsoft/toss2.2/modulefiles/moonlight/compiler/pgi/10.9
+PGROUPD_LICENSE_FILE=/usr/projects/hpcsoft/licenses/pgi/license.dat
+F95=pgfortran
+MODULEPATH=/usr/projects/hpcsoft/toss2.2/modulefiles/moonlight/compiler:/usr/projects/hpcsoft/toss2.2/modulefiles/moonlight/debugger:/usr/projects/hpcsoft/toss2.2/modulefiles/moonlight/libraries:/usr/projects/hpcsoft/toss2.2/modulefiles/moonlight/misc:/usr/projects/hpcsoft/toss2.2/modulefiles/moonlight/mpi:/usr/projects/hpcsoft/toss2.2/modulefiles/moonlight/tools
+LOADEDMODULES=pgi/10.9
+fortran_compiler_gnu=gfortran
+ego=/users/dantopa/Repos/gitlab/ccs2/platforms/moonlight
+F77=pgfortran
+PS1=\[\033[00;35m\]\u\[\033[00m\]@\[\033[00;35m\]\H\[\033[00m\]:\[\033[00;33m\]\W\[\033[00m\] $\033[00;36m 
+i=1
+HTTPS_PROXY=http://proxyout.lanl.gov:8080
+https_proxy=http://proxyout.lanl.gov:8080
+CXX=pgCC
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+HISTCONTROL=ignoredups
+KRB5CCNAME=FILE:/tmp/krb5cc_15003_XEyRFE
+SHLVL=1
+HOME=/users/dantopa
+id=/users/dantopa/Repos/gitlab/ccs2/platforms/moonlight/ml-fey1/
+LCOMPILERMAJVER=10
+cflags=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra -fcoarray=lib
+FC=pgfortran
+HTTP_PROXY=http://proxyout.lanl.gov:8080
+spack_mirror_draco=/usr/projects/draco/vendors/spack.mirror
+me=dantopa@lanl.gov
+LOGNAME=dantopa
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+core=/users/dantopa/Repos/gitlab/ccs2/core_scripts/
+ccs2=/users/dantopa/Repos/gitlab/ccs2/
+SSH_CONNECTION=128.165.15.5 57764 128.165.227.170 22
+crayflags=-g -fbacktrace
+MODULESHOME=/usr/share/Modules
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+gflags4=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5
+gflags5=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto
+LCOMPILERVER=10.9
+CC=pgcc
+gflags6=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra
+DISPLAY=ml-fey1.lanl.gov:21.0
+gflags7=-g -ffpe-trap=denormal,invalid,zero -fbacktrace -Wall -Wextra -Waliasing -Wsurprising -Wimplicit-procedure -Wintrinsics-std -Og -pedantic -fmax-errors=5 -fcheck=all -fcheck=do -fcheck=pointer -fno-protect-parens  -Ofast -Wfunction-elimination -faggressive-function-elimination -Wc-binding-type -Wrealloc-lhs-all -Wuse-without-only -fdiagnostics-color=auto  -Wconversion-extra  -finit-derived
+vol=/users/dantopa/
+short_name=ml-fey1
+fortran_compiler_mpi_gnu=mpif90
+G_BROKEN_FILENAMES=1
+_MODULES_CC=pgi/10.9
+bash_file=.bashrc
+BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}
+BASH_FUNC_spack()=() {  if [ -n "${ZSH_VERSION:-}" ]; then
+ emulate -L sh;
+ fi;
+ args=("$@");
+ _sp_flags="";
+ while [[ "$1" =~ ^- ]]; do
+ _sp_flags="$_sp_flags $1";
+ shift;
+ done;
+ if [[ ( ! -z "$_sp_flags" ) && ( "$_sp_flags" =~ '.*h.*' || "$_sp_flags" =~ '.*V.*' ) ]]; then
+ command spack $_sp_flags "$@";
+ return;
+ fi;
+ _sp_subcommand=$1;
+ shift;
+ _sp_spec="$@";
+ case $_sp_subcommand in 
+ "cd")
+ _sp_arg="$1";
+ shift;
+ if [ "$_sp_arg" = "-h" ]; then
+ command spack cd -h;
+ else
+ LOC="$(spack location $_sp_arg "$@")";
+ if [[ -d "$LOC" ]]; then
+ cd "$LOC";
+ else
+ return 1;
+ fi;
+ fi;
+ return
+ ;;
+ "use" | "unuse" | "load" | "unload")
+ _sp_subcommand_args="";
+ _sp_module_args="";
+ while [[ "$1" =~ ^- ]]; do
+ if [ "$1" = "-r" -o "$1" = "--dependencies" ]; then
+ _sp_subcommand_args="$_sp_subcommand_args $1";
+ else
+ _sp_module_args="$_sp_module_args $1";
+ fi;
+ shift;
+ done;
+ _sp_spec="$@";
+ case $_sp_subcommand in 
+ "use")
+ if _sp_full_spec=$(command spack $_sp_flags module loads --input-only $_sp_subcommand_args --module-type dotkit $_sp_spec); then
+ use $_sp_module_args $_sp_full_spec;
+ fi
+ ;;
+ "unuse")
+ if _sp_full_spec=$(command spack $_sp_flags module loads --input-only $_sp_subcommand_args --module-type dotkit $_sp_spec); then
+ unuse $_sp_module_args $_sp_full_spec;
+ fi
+ ;;
+ "load")
+ if _sp_full_spec=$(command spack $_sp_flags module loads --input-only $_sp_subcommand_args --module-type tcl $_sp_spec); then
+ module load $_sp_module_args $_sp_full_spec;
+ fi
+ ;;
+ "unload")
+ if _sp_full_spec=$(command spack $_sp_flags module loads --input-only $_sp_subcommand_args --module-type tcl $_sp_spec); then
+ module unload $_sp_module_args $_sp_full_spec;
+ fi
+ ;;
+ esac
+ ;;
+ *)
+ command spack "${args[@]}"
+ ;;
+ esac
+}
+_=/bin/env

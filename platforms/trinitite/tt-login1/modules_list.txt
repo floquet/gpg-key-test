@@ -1,0 +1,17 @@
+module list
+Tue Jul 11 08:19:22 MDT 2017
+
+Currently Loaded Modulefiles:
+  1) modules/3.2.10.5            14) slurm/17.02.5-SSE.1
+  2) pdsh/2.26-11.3              15) dws/2.1.80_g1f50bc3-2.19
+  3) nodestat/2.2.70-2.98        16) sysadm/2.3.116-2.7
+  4) sdb/3.2.679-2.9             17) Base-opts/2.3.117-2.7
+  5) udreg/2.3.2-7.54            18) intel/17.0.1
+  6) ugni/6.0.15-2.2             19) craype-network-aries
+  7) gni-headers/5.0.11-2.2      20) craype/2.5.9
+  8) dmapp/7.1.1-39.37           21) cray-libsci/16.11.1
+  9) xpmem/2.1.1_gf9c9084-2.38   22) pmi/5.0.11
+ 10) llm/21.2.432-2.6            23) atp/2.0.5
+ 11) nodehealth/5.3.0-13.152     24) PrgEnv-intel/6.0.3
+ 12) system-config/3.3.2280-3.1  25) cray-mpich/7.5.2
+ 13) cnat/6.2.2-16.165           26) craype-haswell

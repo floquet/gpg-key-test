@@ -1,0 +1,4 @@
+uname variables
+Tue Aug  1 16:45:50 MDT 2017
+
+Linux ml-fey1.lanl.gov 2.6.32-642.13.1.1chaos.ch5.5.x86_64 #1 SMP Tue Jan 10 17:58:33 PST 2017 x86_64 x86_64 x86_64 GNU/Linux

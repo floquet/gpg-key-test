@@ -1,0 +1,4 @@
+modules available 
+Fri Aug 11 22:57:28 MDT 2017
+
+-bash: module: command not found

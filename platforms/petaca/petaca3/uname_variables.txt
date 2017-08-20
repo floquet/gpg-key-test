@@ -1,0 +1,4 @@
+uname variables
+Mon Aug  7 08:10:35 MDT 2017
+
+Linux petaca3.lanl.gov 4.11.12-100.fc24.x86_64 #1 SMP Fri Jul 21 17:35:20 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
